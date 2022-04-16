@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF: 0 tvg-rec="O", OpenTV
+#EXTGRP:My First Group
+http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-rec="O", PhoenixINFO
+#EXTGRP:My First Group
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:0 tvg-rec="O", PhoenixCHI
+#EXTGRP:My First Group
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:0 tvg-rec="O", BBC News
+#EXTGRP:My First Group
+http://fortv.cc:8080/alphonso/alphonso/53757?checkedby:iptvcat.com
