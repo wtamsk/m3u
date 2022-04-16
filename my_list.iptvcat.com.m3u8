@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",香港开电视 / HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",PhoenixINFO
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",PhoenixCHI
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC NEWS
+http://fortv.cc:8080/alphonso/alphonso/53757?checkedby:iptvcat.com
